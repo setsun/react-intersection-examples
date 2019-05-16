@@ -1,7 +1,7 @@
 {
-  "name": "react-occlusion",
+  "name": "react-intersection-examples",
   "version": "0.1.0",
-  "repository": "git@github.com:Setsun/react-occlusion.git",
+  "repository": "git@github.com:Setsun/react-intersection-examples.git",
   "author": "Setsun <setsun@setsun.io>",
   "license": "MIT",
   "module": "src/index.js",
@@ -30,6 +30,12 @@
     "cross-env": "5.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-popper-tooltip": "^2.8.2",
+    "react-spring": "^8.0.20",
+    "react-three-fiber": "^2.1.2",
+    "react-transition-components": "^4.0.7",
+    "react-transition-group": "^3.0.0",
+    "three": "^0.104.0",
     "webpack": "4.31.0",
     "webpack-cli": "3.3.2"
   },
